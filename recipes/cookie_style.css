@@ -1,0 +1,15 @@
+/* cookie_styles.css */
+
+.title1,.ing,.steps {
+    color: wheat;
+    text-align: center;
+    background-color: darksalmon;
+}
+
+title2 {
+    color: brown;
+}
+
+p {
+    color: dimgrey;
+}
