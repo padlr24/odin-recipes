@@ -1,5 +1,14 @@
 /* cookie_styles.css */
 
+body {
+    background-color: beige;
+    font-family: 'Annie Use Your Telescope';
+}
+
+.title1 {
+    font-size: 40px;
+}
+
 .title1,.ing,.steps {
     color: wheat;
     text-align: center;
@@ -8,6 +17,7 @@
 
 title2 {
     color: brown;
+    font: "Beth Ellen";
 }
 
 p {
