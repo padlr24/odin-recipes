@@ -12,12 +12,11 @@ body {
 .title1,.ing,.steps {
     color: wheat;
     text-align: center;
-    background-color: darksalmon;
+    background-color: blue;
 }
 
 title2 {
     color: brown;
-    font: "Beth Ellen";
 }
 
 p {
